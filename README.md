@@ -22,7 +22,7 @@ git clone https://github.com/alpernae/GenerateClickJackingPoC
 
 1. Highlight an HTTP message in BurpSuite.
 2. Right-click to open the context menu.
-3. Select "Generate Clickjacking PoC".
+3. Select "Generate Clickjacking PoC" under Extensions .
 4. A dialog box will appear with the generated Clickjacking PoC HTML code.
 5. You can copy the code to the clipboard or close the dialog box.
 
